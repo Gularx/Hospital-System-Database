@@ -1,0 +1,3 @@
+"D:\software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\classic.dir/objects.a
+D:\software\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\classic.dir/objects.a @CMakeFiles\classic.dir\objects1.rsp
+D:\software\QT\Tools\mingw1120_64\bin\c++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\classic.dir/objects.a -Wl,--no-whole-archive -o classic.exe -Wl,--out-implib,libclassic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\classic.dir\linkLibs.rsp

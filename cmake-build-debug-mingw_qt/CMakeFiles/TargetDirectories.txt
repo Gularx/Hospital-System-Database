@@ -1,0 +1,4 @@
+D:/software/CLionProjects/classic/cmake-build-debug-mingw_qt/CMakeFiles/classic.dir
+D:/software/CLionProjects/classic/cmake-build-debug-mingw_qt/CMakeFiles/edit_cache.dir
+D:/software/CLionProjects/classic/cmake-build-debug-mingw_qt/CMakeFiles/rebuild_cache.dir
+D:/software/CLionProjects/classic/cmake-build-debug-mingw_qt/CMakeFiles/classic_autogen.dir
